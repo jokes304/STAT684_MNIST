@@ -1,0 +1,2 @@
+# STAT684_MNIST
+STAT684 Project using MNIST Data
