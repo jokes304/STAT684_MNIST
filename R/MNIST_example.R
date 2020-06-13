@@ -18,3 +18,4 @@ plotDigit = function(x, title = '') {
   mode(matObj) = 'numeric'
   levelplot(matObj,col.regions=cols, xlab = '', ylab = '', main = title)
 }
+ 
