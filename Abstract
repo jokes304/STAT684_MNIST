@@ -1,3 +1,3 @@
 Abstract:
 
-This report attempts to create a classification method for hand written numeric digits. The data used is taken from the Modified National Institute of Standards and Technology (MNIST) dataset. This dataset includes a training and test split of handwritten numerics from 0 to 9. All images have been rescaled to be a 28 by 28 pixel square using a grayscale of the written intensity in each of the pixel's regions. 
+This report attempts to create a classification method for hand written numeric digits. The data used is taken from the Modified National Institute of Standards and Technology (MNIST) dataset. This dataset includes a training and test split of handwritten numerics from 0 to 9. All images have been rescaled to be a 28 by 28 pixel square using a grayscale of the written intensity in each of the pixel's regions.  
